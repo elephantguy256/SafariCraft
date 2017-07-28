@@ -77,3 +77,4 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * - "Minecraft" is a trademark of Mojang Synergies AB
 
+All Models, Textures, and Assets belong to the SafariCraft Modding Team and the SafariCraft Name are all Protected under this Copyright!
