@@ -35,6 +35,7 @@ Lukamas233 ---coder
 Crazydino1 (AKA Evo) - Creator, modeler and texturer
 MrModder1234 ---coder
 The Gay Varanid ---modeller and texturer
+TheAmazingMaximus--- coder
 
 __________________________________________________________________________________________________________________________________________
 
@@ -43,7 +44,7 @@ ________________________________________________________________________________
 License Information Follows
 ---------------------------
 Copyright (c) 2017, SafariCraft, a Minecraft* Modding Team 
-(doctorhyena0914, Lukamas233, crazydino1, taylorp16, Scorpio_Cruz, XavierDD1st, MrModder1234.) All rights reserved.
+(Lukamas233, crazydino1, TheAmazingMaximus, TheGayVaranid, MrModder1234.) All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, 
 are permitted provided that the following conditions are met:
