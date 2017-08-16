@@ -26,22 +26,16 @@ ________________________________________________________________________________
 
 Mod Description
 
+Safaricraft is a WIP mod aiming to add more mobs to enhance the Minecraft world. Mobs will be able to spawn naturally in different biomes, and this will allow both survival and creative players to construct their own zoos in Minecraft.
 
-Hello, avid Minecraft fan! Sometimes, in the world does the savanna biome and jungle seem boring at times? Well this mod hopes to spruce up the tropical biomes to have an incredible African experience!
+Safaricraft will likely have either a 1.10.2 version or a 1.12.1 version, or both depending on the coder's ability.
 
-We will add mobs (that fit with vanilla style mobs) and maybe new trees and villages!
+Team:
+Lukamas233 ---coder
+Crazydino1 (AKA Evo) - Creator, modeler and texturer
+MrModder1234 ---coder
+The Gay Varanid ---modeller and texturer
 
-In order for this mod to be a reality, we need Coders, Modelers and Textures!
-
-Current Team:
-Lukamas233 ---creator, modeller and texturer
-Evo ---modeller and texturer and creator
-MrModder1234 ---Lead Developer
-Scorpio_Cruz ---Lead Developer
-Bolcko ---modeller and texturer
-TheSirBatman ---modeller and texturer
-Doctor Hyena ---modeller and texturer
-Modded T ---texturer
 __________________________________________________________________________________________________________________________________________
 
 
